@@ -1,0 +1,22 @@
+{
+  "name": "lifestory",
+  "version": "1.0.0",
+  "description": "Your life story",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalirnet/LifeStory.git"
+  },
+  "keywords": [
+    "story"
+  ],
+  "author": "AmirRezaDalir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalirnet/LifeStory/issues"
+  },
+  "homepage": "https://github.com/dalirnet/LifeStory#readme"
+}
